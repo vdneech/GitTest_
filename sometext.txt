@@ -1,0 +1,3 @@
+sometext.txt extends a JinjaLessons file
+
+new textsgdfg
