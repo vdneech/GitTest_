@@ -3,3 +3,5 @@ sometext.txt extends a JinjaLessons file
 new textsgdfg
 
 okay lets test it
+
+new feature for commit in branch named feature
